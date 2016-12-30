@@ -1,3 +1,3 @@
 UP Installer is a installer programms for OS Windows.
 When you most to download click - Clone or download and download zip.
-Size - 372 MB.
+Size - 372 MB. This size is not decompressed!
